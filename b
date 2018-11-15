@@ -1,0 +1,2 @@
+echo bbb
+bbb
